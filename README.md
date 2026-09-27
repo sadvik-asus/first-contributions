@@ -12,6 +12,7 @@
 7. Getting comfortable with Git stash for temporary changes.
 8. Discovering how to undo mistakes with git reset and revert.
 9. Setting up my local development environment for success.
+10. Collaborating with others using Pull Requests and code reviews.
 
 # 🚀 Sadvik's Awesome Fork
 Welcome to my personal version of the repository! I'm using this to practice my GitHub skills.
