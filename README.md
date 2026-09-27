@@ -6,6 +6,7 @@
 1. This is the very first step of my 11-commit challenge!
 2. Learning how to rebase and manage multiple commits effectively.
 3. Added new resources for open-source contributors.
+4. Exploring how to review diffs and track changes.
 
 # 🚀 Sadvik's Awesome Fork
 Welcome to my personal version of the repository! I'm using this to practice my GitHub skills.
