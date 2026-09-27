@@ -8,6 +8,7 @@
 3. Added new resources for open-source contributors.
 4. Exploring how to review diffs and track changes.
 5. Understanding how to use git branches safely.
+6. Practicing how to resolve merge conflicts.
 
 # 🚀 Sadvik's Awesome Fork
 Welcome to my personal version of the repository! I'm using this to practice my GitHub skills.
