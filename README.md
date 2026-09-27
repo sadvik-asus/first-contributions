@@ -7,6 +7,7 @@
 2. Learning how to rebase and manage multiple commits effectively.
 3. Added new resources for open-source contributors.
 4. Exploring how to review diffs and track changes.
+5. Understanding how to use git branches safely.
 
 # 🚀 Sadvik's Awesome Fork
 Welcome to my personal version of the repository! I'm using this to practice my GitHub skills.
