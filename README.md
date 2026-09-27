@@ -2,6 +2,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+# 📖 My 11 Commits Journey
+1. This is the very first step of my 11-commit challenge!
+2. Learning how to rebase and manage multiple commits effectively.
+3. Added new resources for open-source contributors.
+4. Exploring how to review diffs and track changes.
+5. Understanding how to use git branches safely.
+6. Practicing how to resolve merge conflicts.
+7. Getting comfortable with Git stash for temporary changes.
+8. Discovering how to undo mistakes with git reset and revert.
+9. Setting up my local development environment for success.
+10. Collaborating with others using Pull Requests and code reviews.
+11. Successfully completed my 11-commit challenge! 🎉
+
+# 🚀 Sadvik's Awesome Fork
+Welcome to my personal version of the repository! I'm using this to practice my GitHub skills.
+
+
 #### _Read this in [other languages](docs/translations/Translations.md)._
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](docs/translations/README.sq.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
